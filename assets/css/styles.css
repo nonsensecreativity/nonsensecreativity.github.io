@@ -1,0 +1,38 @@
+body {
+	background: #222;
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+}
+
+h1 {
+	font-weight: 200;
+	font-size: 3em;
+}
+
+h2 {
+	font-size: 2.5em;
+}
+
+h3 {
+	font-size: 2em;
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+h5 {
+	font-size: 1em;
+}
+
+h2,h3,h4,h5 {
+	font-weight: 300;
+}
+
+.hero {
+	max-width: 980px;
+	text-align: center;
+	margin: 0 auto;
+	color: #fff;
+	padding: 5em 0 2em 0;
+}
